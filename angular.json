@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "angMat": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angMat"
+    }
+  },
+  "defaultProject": "angMat",
+  "cli": {
+    "analytics": "e4410fca-7f41-4003-afca-d233998bd64d"
+  }
 }
